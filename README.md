@@ -1,5 +1,5 @@
 # ImageMagicK-RCE
-Me: Hi dule, install imagemagick and convert this image to jpg for me.
+Me: Hi dule, install imagemagick and convert this image to jpg for me. (sending helpme.png file to him)
 
 My friend: Okela wait me a sec ...
 ```sh
