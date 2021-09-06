@@ -9,6 +9,6 @@ convert helpme.png done.jpg &
 Me: :hacking_time ...
 
 
-[Video demo](https://youtube.com) 
+[Video demo](https://youtu.be/lldsOQWR6ww) 
 
 **Reference:** https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
