@@ -6,3 +6,8 @@ My friend: Okela wait me a sec ...
 sudo apt install imagemagick -y
 convert helpme.png done.jpg &
 ```
+
+
+[Video demo](https://youtube.com) 
+
+**Reference:** https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
