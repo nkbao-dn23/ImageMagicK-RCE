@@ -6,6 +6,7 @@ My friend: Okela wait me a sec ...
 sudo apt install imagemagick -y
 convert helpme.png done.jpg &
 ```
+Me: :hacking_time ...
 
 
 [Video demo](https://youtube.com) 
